@@ -7,7 +7,7 @@
 - Zenon Tools https://zenon.tools/overview 
 - ZenonHub https://zenonhub.io/ 
 - Zenon Org https://www.zenon.org/
-- Testnet Bridge dApp https://bridge.testnet.zenon.network
+- Testnet Bridge dApp https://bridge.testnet.zenon.community
 - Bridge dApp https://bridge.mainnet.zenon.community/
 
 ## Documentations
