@@ -53,10 +53,19 @@
 ## Mainnet contracts on the NoM
 - Pillars contract z1qxemdeddedxpyllarxxxxxxxxxxxxxxxsy3fmg
 - Sentinels contract z1qxemdeddedxsentynelxxxxxxxxxxxxxwy0r2r
+- Token contract z1qxemdeddedxt0kenxxxxxxxxxxxxxxxxh9amk0
 - Accelerator contract z1qxemdeddedxaccelerat0rxxxxxxxxxxp4tk22
 - Stake contract z1qxemdeddedxstakexxxxxxxxxxxxxxxxjv8v62
 - Liquidity contract z1qxemdeddedxlyquydytyxxxxxxxxxxxxflaaae
+- Plasma contract z1qxemdeddedxplasmaxxxxxxxxxxxxxxxxsctrp
 - Bridge contract z1qxemdeddedxdrydgexxxxxxxxxxxxxxxmqgr0d
+- Swap contract z1qxemdeddedxswapxxxxxxxxxxxxxxxxxxl4yww
+- Spork contract z1qxemdeddedxsp0rkxxxxxxxxxxxxxxxx956u48
+- HTLC contract z1qxemdeddedxhtlcxxxxxxxxxxxxxxxxxygecvw
+
+## Mainnet ZTS 
+- ZNN zts1znnxxxxxxxxxxxxx9z4ulx
+- QSR zts1qsrxxxxxxxxxxxxxmrhjll
 
 ## Testnet Affiliate generator
 - https://affiliate.zenon.community/
