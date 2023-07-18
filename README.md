@@ -7,6 +7,7 @@
 - Zenon Tools https://zenon.tools/overview 
 - ZenonHub https://zenonhub.io/ 
 - Zenon Org https://www.zenon.org/
+- Zenon Info https://zenon.info
 - Testnet Bridge dApp https://bridge.testnet.zenon.community
 - Bridge dApp https://bridge.mainnet.zenon.community/
 
@@ -19,10 +20,14 @@
 
 - https://zenonhub.io/explorer
 - https://explorer.zenon.network/
+- https://explorer.zenon.info
+- https://explorer.zenon.org
 
-## Testnet explorers
+## Hypercore One Testnet Explorer
 - https://testnet.zenon.info/
-  Make sure you’re using HTTP and not the HTTPS for this, otherwise that node will not work since it’s not SSL enabled.
+
+## Hypercore One Testnet Chain ID
+- Chain ID is 321
 
 ## Testnet Chain ID
 - The testnet chain id value is 3
@@ -33,12 +38,13 @@
 - http://nodes.testnet.zenon.community:35997
 
 ## Mainnet nodes
-- http://www.zenon.org/nodes
+- https://www.zenon.info/public-nodes/
 
 ## GitHubs
 - https://github.com/alienc0der
 - https://github.com/zenon-network
 - https://github.com/HyperCore-Team
+- https://github.com/HyperCore-One
 
 ## Mainnet contracts on ETH
 - wZNN 0xb2e96a63479C2Edd2FD62b382c89D5CA79f572d3
